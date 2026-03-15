@@ -10,10 +10,11 @@
 
 }
 .brandname{
-    height: 6px;
+    height: 60px;
     width: 60px;
-    h5{
-        color: red;
-
-    }
+}
+h5{
+    color: red;
+    width: 60px;
+    height: 60px;
 }
